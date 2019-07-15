@@ -28,6 +28,10 @@ html,
 body {
   height: 100%;
   background-color: #333;
+  background-image: url('../images/DSC_0043.jpeg');
+  background-position: center;
+  background-size: cover;
+
 }
 
 body {
